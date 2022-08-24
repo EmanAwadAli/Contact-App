@@ -24,8 +24,8 @@ npm install
 npm start
 ```
 
-#### 💡 Note : the [Contacts app server](https://github.com/udacity/reactnd-contacts-server2) must also be running to support the app's API calls.
+#### 💡 Note : the [contacts app server](https://github.com/udacity/reactnd-contacts-server2) must also be running to support the app's API calls.
 
 #### 👉 [Here's](https://www.youtube.com/watch?v=DIaUp9kzG_0) a quick demo of its functionalities.
 
-#### 🎉 Finally that's [Project Starter Code](https://github.com/udacity/React-Fundamentals-C1-React-Contacts.git) if you want to try developing this project from start 🤞.
+#### 🎉 Finally that's [project starter code](https://github.com/udacity/React-Fundamentals-C1-React-Contacts.git) if you want to try developing this project from start 🤞.
