@@ -1,4 +1,4 @@
-# 🌏 Contact App
+# 🌏 ContactList App
 
 ## 📌 Overview
 In this project, I create a web application that allows you to List Contacts and add other ones to it.
